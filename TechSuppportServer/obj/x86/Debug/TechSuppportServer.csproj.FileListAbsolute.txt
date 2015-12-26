@@ -1,0 +1,4 @@
+C:\Users\haloguysm1th\Documents\Projects\TechSuppportServer\TechSuppportServer\bin\Debug\TechSuppportServer.exe
+C:\Users\haloguysm1th\Documents\Projects\TechSuppportServer\TechSuppportServer\bin\Debug\TechSuppportServer.pdb
+C:\Users\haloguysm1th\Documents\Projects\TechSuppportServer\TechSuppportServer\obj\x86\Debug\TechSuppportServer.exe
+C:\Users\haloguysm1th\Documents\Projects\TechSuppportServer\TechSuppportServer\obj\x86\Debug\TechSuppportServer.pdb
